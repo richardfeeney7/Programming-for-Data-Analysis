@@ -1,6 +1,6 @@
-<h1 align ="center">numpy.random package in Python</h1>
+<h1 align ="center">numpy.random Package in Python</h1>
 
-<p align ="center"><img src="images/numpy.png" alt="Houses" width="300" height="300" title="House"/></p>
+<p align ="center"><img src="images/numpy.png" alt="Houses" width="500" height="500" title="Numpy"/></p>
 
 <h2 align ="center">Programming for Data Analysis Assignment 2019</h2>
 <h2 align ="center">Created by Richard Feeney</h2>
@@ -8,9 +8,9 @@
 
 # Introduction
 
-### Iris Data Set Project Outline And Objectives
-<div align="justify"> The following assignment concerns the numpy.random package in Python [2]. You are
-required to create a Jupyter [5] notebook explaining the use of the package, including
+### Project Outline And Objectives
+<div align="justify"> The following assignment concerns the numpy.random package in Python. You are
+required to create a Jupyter notebook explaining the use of the package, including
 detailed explanations of at least five of the distributions provided for in the package.
 There are four distinct tasks to be carried out in your Jupyter notebook.
 </div><br>
@@ -19,7 +19,7 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 1. Explain the overall purpose of the package.<br><br>
 2. Explain the use of the “Simple random data” and “Permutations” functions.<br><br>
 3. Explain the use and purpose of at least five “Distributions” functions.<br><br>
-4. Explain the use of seeds in generating pseudorandom numbers.follows.
+4. Explain the use of seeds in generating pseudorandom numbers.
 </div>
 <br><br>
 
@@ -33,6 +33,11 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 <br><br>
 </div>
 <hr>
+
+### Bibliography
+
+1. Docs.scipy.org. (2019). What is NumPy? — NumPy v1.13 Manual. [online] Available at: https://docs.scipy.org/doc/numpy-1.13.0/user/whatisnumpy.html [Accessed 14 Oct. 2019]. <br><br>
+2. Subscription.packtpub.com. (2019). {{metadataController.pageTitle}}. [online] Available at: https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781785285110/2/ch02lvl1sec16/numpy-random-numbers [Accessed 14 Oct. 2019]. <br><br>
 
 
 
