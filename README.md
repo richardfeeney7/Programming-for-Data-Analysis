@@ -1,6 +1,6 @@
 <h1 align ="center">numpy.random Package in Python</h1>
 
-<p align ="center"><img src="images/numpy.png" alt="Houses" width="500" height="700" title="Numpy"/></p>
+<p align ="center"><img src="images/numpy.png" alt="Houses" width="700" height="500" title="Numpy"/></p>
 
 <h2 align ="center">Programming for Data Analysis Assignment 2019</h2>
 <h2 align ="center">Created by Richard Feeney</h2>
@@ -38,7 +38,9 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 
 1. Docs.scipy.org. (2019). What is NumPy? — NumPy v1.13 Manual. [online] Available at: https://docs.scipy.org/doc/numpy-1.13.0/user/whatisnumpy.html [Accessed 14 Oct. 2019]. <br><br>
 2. Subscription.packtpub.com. (2019). {{metadataController.pageTitle}}. [online] Available at: https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781785285110/2/ch02lvl1sec16/numpy-random-numbers [Accessed 14 Oct. 2019]. <br><br>
-3. Pageperso.lif.univ-mrs.fr. (2019). Random sampling (numpy.random) — NumPy v1.14 Manual. [online] Available at: http://pageperso.lif.univ-mrs.fr/~francois.denis/IAAM1/numpy-html-1.14.0/reference/routines.random.html#simple-random-data [Accessed 14 Oct. 2019].
+3. Pageperso.lif.univ-mrs.fr. (2019). Random sampling (numpy.random) — NumPy v1.14 Manual. [online] Available at: http://pageperso.lif.univ-mrs.fr/~francois.denis/IAAM1/numpy-html-1.14.0/reference/routines.random.html#simple-random-data [Accessed 14 Oct. 2019]. <br<br>
+4. Frost, J. (2019). Normal Distribution in Statistics - Statistics By Jim. [online] Statistics By Jim. Available at: https://statisticsbyjim.com/basics/normal-distribution/ [Accessed 16 Oct. 2019]. <br><br>
+5. Mathsisfun.com. (2019). Normal Distribution. [online] Available at: https://www.mathsisfun.com/data/standard-normal-distribution.html [Accessed 16 Oct. 2019].
 
 
 
