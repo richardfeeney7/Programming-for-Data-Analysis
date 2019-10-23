@@ -23,7 +23,7 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 </div>
 <br><br>
 
-### How To Run The Boston House Prices Dataset
+### How To Run
 <div align="justify">
 1. Download Cmder command line or use the command line on your computer.<br><br>
 2. Go to Github, find my repository or use the following link https://github.com/richardfeeney7/Programming-for-Data-Analysis. Click on the Clone/Download button and select download zip. <br><br>
@@ -40,7 +40,13 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 2. Subscription.packtpub.com. (2019). {{metadataController.pageTitle}}. [online] Available at: https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781785285110/2/ch02lvl1sec16/numpy-random-numbers [Accessed 14 Oct. 2019]. <br><br>
 3. Pageperso.lif.univ-mrs.fr. (2019). Random sampling (numpy.random) — NumPy v1.14 Manual. [online] Available at: http://pageperso.lif.univ-mrs.fr/~francois.denis/IAAM1/numpy-html-1.14.0/reference/routines.random.html#simple-random-data [Accessed 14 Oct. 2019]. <br<br>
 4. Frost, J. (2019). Normal Distribution in Statistics - Statistics By Jim. [online] Statistics By Jim. Available at: https://statisticsbyjim.com/basics/normal-distribution/ [Accessed 16 Oct. 2019]. <br><br>
-5. Mathsisfun.com. (2019). Normal Distribution. [online] Available at: https://www.mathsisfun.com/data/standard-normal-distribution.html [Accessed 16 Oct. 2019].
+5. Mathsisfun.com. (2019). Normal Distribution. [online] Available at: https://www.mathsisfun.com/data/standard-normal-distribution.html [Accessed 16 Oct. 2019].<br><br>
+6. Tutorialspoint.com. (2019). Python - Binomial Distribution - Tutorialspoint. [online] Available at: https://www.tutorialspoint.com/python_data_science/python_binomial_distribution.htm [Accessed 22 Oct. 2019].<br><br>
+7. Medium. (2019). numpy.random.uniform. [online] Available at: https://medium.com/@yhpf/numpy-random-uniform-9a51183ce8c1 [Accessed 22 Oct. 2019].<br><br>
+8. DataCamp Community. (2019). Probability Distributions in Python. [online] Available at: https://www.datacamp.com/community/tutorials/probability-distributions-python [Accessed 22 Oct. 2019].<br><br>
+9. do?, r., Rungta, A., Finn, E., Karwa, R., Maurya, a. and Bera, G. (2019). random.seed(): What does it do?. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/22639587/random-seed-what-does-it-do [Accessed 23 Oct. 2019].<br><br>
+10. Docs.scipy.org. (2019). numpy.random.exponential — NumPy v1.15 Manual. [online] Available at: https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.random.exponential.html [Accessed 23 Oct. 2019]. <br><br>
+11. Docs.scipy.org. (2019). numpy.random.poisson — NumPy v1.14 Manual. [online] Available at: https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.poisson.html [Accessed 23 Oct. 2019].<br><br>
 
 
 
