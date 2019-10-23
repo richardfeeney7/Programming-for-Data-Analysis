@@ -1,6 +1,6 @@
 <h1 align ="center">numpy.random Package in Python</h1>
 
-<p align ="center"><img src="images/numpy.png" alt="Houses" width="700" height="500" title="Numpy"/></p>
+<p align ="center"><img src="images/numpy.png" alt="Houses" width="900" height="500" title="Numpy"/></p>
 
 <h2 align ="center">Programming for Data Analysis Assignment 2019</h2>
 <h2 align ="center">Created by Richard Feeney</h2>
@@ -9,7 +9,7 @@
 # Introduction
 
 ### Project Outline And Objectives
-<div align="justify"> The following assignment concerns the numpy.random package in Python. You are
+<div align="justify"> The following assignment concerns the numpy.random package in Python. I am
 required to create a Jupyter notebook explaining the use of the package, including
 detailed explanations of at least five of the distributions provided for in the package.
 There are four distinct tasks to be carried out in your Jupyter notebook.
