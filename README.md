@@ -30,7 +30,6 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 3. Once downloaded go to the command line and navigate to this  download using the cd command. When I download the zip file, I first had to unzip it and cd into it, and within that folder I had another folder that I need to cd into also.<br><br>
 4. Once in the correct location type Jupyter Lab or Jupyter Notebook into the command like. This will open a web server where you can access the files. Depending on the settings this might open Internet Explorer, I would recommend closing that web page and use the web address that you can see in the command line. <br><br>
 5. When you open the web server and can view my project file, open the <u><b><i>.ipynb</i></b></u> document to view the project. <br><br>
-<br><br>
 6. If you want to view the <u><b><i>.ipynb</i></b></u> file using GitHub but loading is unsuccessful, please use the following link :  https://nbviewer.jupyter.org/github/richardfeeney7/Programming-for-Data-Analysis/blob/master/numpy.random.ipynb
 </div>
 <hr>
