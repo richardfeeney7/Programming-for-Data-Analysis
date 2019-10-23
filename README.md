@@ -31,6 +31,7 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 4. Once in the correct location type Jupyter Lab or Jupyter Notebook into the command like. This will open a web server where you can access the files. Depending on the settings this might open Internet Explorer, I would recommend closing that web page and use the web address that you can see in the command line. <br><br>
 5. When you open the web server and can view my project file, open the <u><b><i>.ipynb</i></b></u> document to view the project. <br><br>
 <br><br>
+6. If you want to view the <u><b><i>.ipynb</i></b></u> file using GitHub but loading is unsuccessful, please use the following link :  https://nbviewer.jupyter.org/github/richardfeeney7/Programming-for-Data-Analysis/blob/master/numpy.random.ipynb
 </div>
 <hr>
 
